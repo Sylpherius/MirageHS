@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor id="id614356" PGFVersion="0.19" GSCVersion="0.10.5">
+  <attributes>
+    <text id="name">Trapped</text>
+    <real id="time">0</real>
+    <point id="position">
+      <real id="x">0</real>
+      <real id="y">0</real>
+    </point>
+    <size id="size">
+      <real id="width">25</real>
+      <real id="height">50</real>
+    </size>
+    <angle id="rotation">0</angle>
+    <color id="color">
+      <real id="red">1</real>
+      <real id="green">1</real>
+      <real id="blue">1</real>
+      <real id="alpha">1</real>
+    </color>
+    <image id="image">Mirage-TrappedA52</image>
+    <text id="tags" />
+    <boolean id="preloadArt">true</boolean>
+  </attributes>
+  <behaviors>
+    <behavior id="id592714" class="AnimateBehavior" enabled="true">
+      <attributes>
+        <text id="name">Animate</text>
+        <text id="bundleName">Animate.behavior</text>
+        <text id="images">Mirage-TrappedA52	Mirage-TrappedA51	Mirage-TrappedA50	Mirage-TrappedA49	Mirage-TrappedA48	Mirage-TrappedA47	Mirage-TrappedA46	Mirage-TrappedA45	Mirage-TrappedA44	Mirage-TrappedA44	Mirage-TrappedA43	Mirage-TrappedA42	Mirage-TrappedA41	Mirage-TrappedA40	Mirage-TrappedA39	Mirage-TrappedA38	Mirage-TrappedA37	Mirage-TrappedA36	Mirage-TrappedA35	Mirage-TrappedA34	Mirage-TrappedA33	Mirage-TrappedA32	Mirage-TrappedA31	Mirage-TrappedA30	Mirage-TrappedA29	Mirage-TrappedA28	Mirage-TrappedA27	Mirage-TrappedA26	Mirage-TrappedA25	Mirage-TrappedA24	Mirage-TrappedA23	Mirage-TrappedA22	Mirage-TrappedA21	Mirage-TrappedA20	Mirage-TrappedA19	Mirage-TrappedA18	Mirage-TrappedA17	Mirage-TrappedA16	Mirage-TrappedA15	Mirage-TrappedA14	Mirage-TrappedA13	Mirage-TrappedA13	Mirage-TrappedA11	Mirage-TrappedA11	Mirage-TrappedA9	Mirage-TrappedA8	Mirage-TrappedA7	Mirage-TrappedA6	Mirage-TrappedA5	Mirage-TrappedA4	Mirage-TrappedA2	Mirage-TrappedA1	Mirage-Trapped</text>
+        <index id="speed">30</index>
+        <boolean id="loop">false</boolean>
+        <boolean id="restoreActorImage">false</boolean>
+      </attributes>
+    </behavior>
+    <behavior id="id526150" class="TimerBehavior" enabled="true">
+      <attributes>
+        <text id="name">Timer</text>
+        <text id="bundleName">Timer.behavior</text>
+        <index id="timerType">1</index>
+        <real id="interval">4</real>
+        <boolean id="runToCompletion">false</boolean>
+      </attributes>
+      <behaviors>
+        <behavior id="id898050" class="MoveBehavior" enabled="true">
+          <attributes>
+            <text id="name">Move</text>
+            <text id="bundleName">Move.behavior</text>
+            <angle id="direction">270</angle>
+            <index id="space">0</index>
+            <index id="moveType">0</index>
+            <real id="speed">30</real>
+          </attributes>
+        </behavior>
+      </behaviors>
+    </behavior>
+  </behaviors>
+  <aspects>
+    <graphics>
+      <attributes>
+        <boolean id="visible">true</boolean>
+        <enumeration id="blendingMode">0</enumeration>
+        <enumeration id="horizontalWrap">0</enumeration>
+        <enumeration id="verticalWrap">0</enumeration>
+        <enumeration id="horizontalAnchor">0</enumeration>
+        <enumeration id="verticalAnchor">0</enumeration>
+        <boolean id="flipHorizontally">false</boolean>
+        <boolean id="flipVertically">false</boolean>
+        <integer id="tileWidth">100</integer>
+        <integer id="tileHeight">200</integer>
+      </attributes>
+    </graphics>
+    <motion>
+      <attributes>
+        <point id="linearVelocity">
+          <real id="x">0</real>
+          <real id="y">0</real>
+        </point>
+        <real id="angularVelocity">0</real>
+        <real id="maxSpeed">0</real>
+        <boolean id="applyMaxSpeed">false</boolean>
+      </attributes>
+    </motion>
+    <physics>
+      <attributes>
+        <real id="density">1</real>
+        <real id="friction">3</real>
+        <real id="restitution">1</real>
+        <boolean id="fixedRotation">false</boolean>
+        <boolean id="movable">true</boolean>
+        <enumeration id="collisionShape">0</enumeration>
+        <real id="drag">0</real>
+        <real id="angularDrag">0</real>
+      </attributes>
+    </physics>
+  </aspects>
+</actor>

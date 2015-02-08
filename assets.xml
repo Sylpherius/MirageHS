@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.19" GSCVersion="0.10.5">
+  <sounds>
+    <music name="AutumnWind-RelaxingAmbientMusic">
+      <file name="AutumnWind-RelaxingAmbientMusic.m4a" size="1991211" />
+    </music>
+    <sound name="Thunk">
+      <file name="Thunk.ogg" size="25911" />
+    </sound>
+  </sounds>
+  <images>
+    <image name="Mirage-Background">
+      <file name="Mirage-Background.png" size="191621" />
+    </image>
+    <image name="Mirage-Bottom Vines">
+      <file name="Mirage-Bottom Vines.png" size="27057" />
+    </image>
+    <image name="Mirage-Main">
+      <file name="Mirage-Main.png" size="918" />
+    </image>
+    <image name="Mirage-MainA1">
+      <file name="Mirage-MainA1.png" size="1572" />
+    </image>
+    <image name="Mirage-MainA2">
+      <file name="Mirage-MainA2.png" size="2067" />
+    </image>
+    <image name="Mirage-MainA3">
+      <file name="Mirage-MainA3.png" size="2319" />
+    </image>
+    <image name="Mirage-MainA4">
+      <file name="Mirage-MainA4.png" size="2395" />
+    </image>
+    <image name="Mirage-MainA5">
+      <file name="Mirage-MainA5.png" size="2398" />
+    </image>
+    <image name="Mirage-MainA6">
+      <file name="Mirage-MainA6.png" size="2480" />
+    </image>
+    <image name="Mirage-MainA7">
+      <file name="Mirage-MainA7.png" size="2208" />
+    </image>
+    <image name="Mirage-MainA8">
+      <file name="Mirage-MainA8.png" size="2117" />
+    </image>
+    <image name="Mirage-MainA9">
+      <file name="Mirage-MainA9.png" size="2004" />
+    </image>
+    <image name="Mirage-MainA10">
+      <file name="Mirage-MainA10.png" size="1901" />
+    </image>
+    <image name="Mirage-MainA11">
+      <file name="Mirage-MainA11.png" size="1914" />
+    </image>
+    <image name="Mirage-MainDead">
+      <file name="Mirage-MainDead.png" size="1111" />
+    </image>
+    <image name="Mirage-Trapped">
+      <file name="Mirage-Trapped.png" size="6700" />
+    </image>
+    <image name="Mirage-TrappedA1">
+      <file name="Mirage-TrappedA1.png" size="6805" />
+    </image>
+    <image name="Mirage-TrappedA2">
+      <file name="Mirage-TrappedA2.png" size="6720" />
+    </image>
+    <image name="Mirage-TrappedA3">
+      <file name="Mirage-TrappedA3.png" size="6642" />
+    </image>
+    <image name="Mirage-TrappedA4">
+      <file name="Mirage-TrappedA4.png" size="6590" />
+    </image>
+    <image name="Mirage-TrappedA5">
+      <file name="Mirage-TrappedA5.png" size="6578" />
+    </image>
+    <image name="Mirage-TrappedA6">
+      <file name="Mirage-TrappedA6.png" size="6620" />
+    </image>
+    <image name="Mirage-TrappedA7">
+      <file name="Mirage-TrappedA7.png" size="6584" />
+    </image>
+    <image name="Mirage-TrappedA8">
+      <file name="Mirage-TrappedA8.png" size="6503" />
+    </image>
+    <image name="Mirage-TrappedA9">
+      <file name="Mirage-TrappedA9.png" size="6491" />
+    </image>
+    <image name="Mirage-TrappedA10">
+      <file name="Mirage-TrappedA10.png" size="6292" />
+    </image>
+    <image name="Mirage-TrappedA11">
+      <file name="Mirage-TrappedA11.png" size="6291" />
+    </image>
+    <image name="Mirage-TrappedA12">
+      <file name="Mirage-TrappedA12.png" size="6291" />
+    </image>
+    <image name="Mirage-TrappedA13">
+      <file name="Mirage-TrappedA13.png" size="6291" />
+    </image>
+    <image name="Mirage-TrappedA14">
+      <file name="Mirage-TrappedA14.png" size="6291" />
+    </image>
+    <image name="Mirage-TrappedA15">
+      <file name="Mirage-TrappedA15.png" size="6312" />
+    </image>
+    <image name="Mirage-TrappedA16">
+      <file name="Mirage-TrappedA16.png" size="6304" />
+    </image>
+    <image name="Mirage-TrappedA17">
+      <file name="Mirage-TrappedA17.png" size="6296" />
+    </image>
+    <image name="Mirage-TrappedA18">
+      <file name="Mirage-TrappedA18.png" size="6362" />
+    </image>
+    <image name="Mirage-TrappedA19">
+      <file name="Mirage-TrappedA19.png" size="6361" />
+    </image>
+    <image name="Mirage-TrappedA20">
+      <file name="Mirage-TrappedA20.png" size="6266" />
+    </image>
+    <image name="Mirage-TrappedA21">
+      <file name="Mirage-TrappedA21.png" size="6142" />
+    </image>
+    <image name="Mirage-TrappedA22">
+      <file name="Mirage-TrappedA22.png" size="6028" />
+    </image>
+    <image name="Mirage-TrappedA23">
+      <file name="Mirage-TrappedA23.png" size="6117" />
+    </image>
+    <image name="Mirage-TrappedA24">
+      <file name="Mirage-TrappedA24.png" size="6117" />
+    </image>
+    <image name="Mirage-TrappedA25">
+      <file name="Mirage-TrappedA25.png" size="6117" />
+    </image>
+    <image name="Mirage-TrappedA26">
+      <file name="Mirage-TrappedA26.png" size="6117" />
+    </image>
+    <image name="Mirage-TrappedA27">
+      <file name="Mirage-TrappedA27.png" size="6117" />
+    </image>
+    <image name="Mirage-TrappedA28">
+      <file name="Mirage-TrappedA28.png" size="6117" />
+    </image>
+    <image name="Mirage-TrappedA29">
+      <file name="Mirage-TrappedA29.png" size="6198" />
+    </image>
+    <image name="Mirage-TrappedA30">
+      <file name="Mirage-TrappedA30.png" size="6096" />
+    </image>
+    <image name="Mirage-TrappedA31">
+      <file name="Mirage-TrappedA31.png" size="5982" />
+    </image>
+    <image name="Mirage-TrappedA32">
+      <file name="Mirage-TrappedA32.png" size="5933" />
+    </image>
+    <image name="Mirage-TrappedA33">
+      <file name="Mirage-TrappedA33.png" size="5901" />
+    </image>
+    <image name="Mirage-TrappedA34">
+      <file name="Mirage-TrappedA34.png" size="5824" />
+    </image>
+    <image name="Mirage-TrappedA35">
+      <file name="Mirage-TrappedA35.png" size="5744" />
+    </image>
+    <image name="Mirage-TrappedA36">
+      <file name="Mirage-TrappedA36.png" size="5696" />
+    </image>
+    <image name="Mirage-TrappedA37">
+      <file name="Mirage-TrappedA37.png" size="5635" />
+    </image>
+    <image name="Mirage-TrappedA38">
+      <file name="Mirage-TrappedA38.png" size="5538" />
+    </image>
+    <image name="Mirage-TrappedA39">
+      <file name="Mirage-TrappedA39.png" size="5475" />
+    </image>
+    <image name="Mirage-TrappedA40">
+      <file name="Mirage-TrappedA40.png" size="5518" />
+    </image>
+    <image name="Mirage-TrappedA41">
+      <file name="Mirage-TrappedA41.png" size="5419" />
+    </image>
+    <image name="Mirage-TrappedA42">
+      <file name="Mirage-TrappedA42.png" size="5327" />
+    </image>
+    <image name="Mirage-TrappedA43">
+      <file name="Mirage-TrappedA43.png" size="5100" />
+    </image>
+    <image name="Mirage-TrappedA44">
+      <file name="Mirage-TrappedA44.png" size="4966" />
+    </image>
+    <image name="Mirage-TrappedA45">
+      <file name="Mirage-TrappedA45.png" size="4776" />
+    </image>
+    <image name="Mirage-TrappedA46">
+      <file name="Mirage-TrappedA46.png" size="4692" />
+    </image>
+    <image name="Mirage-TrappedA47">
+      <file name="Mirage-TrappedA47.png" size="4569" />
+    </image>
+    <image name="Mirage-TrappedA48">
+      <file name="Mirage-TrappedA48.png" size="4457" />
+    </image>
+    <image name="Mirage-TrappedA49">
+      <file name="Mirage-TrappedA49.png" size="4318" />
+    </image>
+    <image name="Mirage-TrappedA50">
+      <file name="Mirage-TrappedA50.png" size="4198" />
+    </image>
+    <image name="Mirage-TrappedA51">
+      <file name="Mirage-TrappedA51.png" size="4062" />
+    </image>
+    <image name="Mirage-TrappedA52">
+      <file name="Mirage-TrappedA52.png" size="4001" />
+    </image>
+    <image name="Mirage-Upper Spikes">
+      <file name="Mirage-Upper Spikes.png" size="7085" />
+    </image>
+    <image name="Restart Button">
+      <file name="Restart Button.png" size="8958" />
+    </image>
+    <image name="Star">
+      <file name="Star.png" size="346" />
+    </image>
+    <image name="Monster1">
+      <file name="Monster1.png" size="4036" />
+    </image>
+    <image name="Monster1A1">
+      <file name="Monster1A1.png" size="4385" />
+    </image>
+    <image name="Monster2">
+      <file name="Monster2.png" size="6596" />
+    </image>
+    <image name="Monster2A1">
+      <file name="Monster2A1.png" size="6726" />
+    </image>
+    <image name="Monster2A2">
+      <file name="Monster2A2.png" size="6975" />
+    </image>
+    <image name="Monster2A3">
+      <file name="Monster2A3.png" size="6900" />
+    </image>
+    <image name="Instructions Button">
+      <file name="Instructions Button.png" size="5978" />
+    </image>
+    <image name="Start Button">
+      <file name="Start Button.png" size="8505" />
+    </image>
+    <image name="Start Menu Background">
+      <file name="Start Menu Background.png" size="34458" />
+    </image>
+    <image name="Monster3">
+      <file name="Monster3.png" size="2302" />
+    </image>
+    <image name="Monster3A1">
+      <file name="Monster3A1.png" size="2376" />
+    </image>
+    <image name="Monster3A2">
+      <file name="Monster3A2.png" size="2352" />
+    </image>
+    <image name="Rune1">
+      <file name="Rune1.png" size="19775" />
+    </image>
+    <image name="Rune2">
+      <file name="Rune2.png" size="23583" />
+    </image>
+    <image name="Rune3">
+      <file name="Rune3.png" size="20795" />
+    </image>
+    <image name="Rune4">
+      <file name="Rune4.png" size="14618" />
+    </image>
+    <image name="Rune5">
+      <file name="Rune5.png" size="10537" />
+    </image>
+    <image name="Rune6">
+      <file name="Rune6.png" size="18631" />
+    </image>
+    <image name="Glow">
+      <file name="Glow.png" size="1458" />
+    </image>
+    <image name="Title-Mirage">
+      <file name="Title-Mirage.png" size="4329" />
+    </image>
+  </images>
+  <behaviors />
+</assets>

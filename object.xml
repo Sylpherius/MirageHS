@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game GSCVersion="0.10.5" PGFVersion="0.19" title="My Great Project">
+  <tags />
+  <resolutionIndependence>0</resolutionIndependence>
+  <instructions>Add game instructions here.</instructions>
+  <resolution>0</resolution>
+  <longDescription>A simple game.</longDescription>
+  <prototypes>
+    <actor id="id980501" />
+    <actor id="id344315" />
+    <actor id="id557866" />
+    <actor id="id539640" />
+    <actor id="id791163" />
+    <actor id="id614356" />
+    <actor id="id979365" />
+    <actor id="id547569" />
+    <actor id="id831712" />
+    <actor id="id729221" />
+    <actor id="id735587" />
+    <actor id="id204887" />
+    <actor id="id113951" />
+    <actor id="id135564" />
+    <actor id="id725601" />
+    <actor id="id810324" />
+    <actor id="id821120" />
+    <actor id="id953676" />
+    <actor id="id640807" />
+    <actor id="id547079" />
+    <actor id="id150274" />
+    <actor id="id169220" />
+    <actor id="id741417" />
+    <actor id="id939070" />
+    <actor id="id257215" />
+    <actor id="id916653" />
+    <actor id="id753317" />
+    <actor id="id348159" />
+    <actor id="id355359" />
+    <actor id="id595124" />
+    <actor id="id969224" />
+    <actor id="id558974" />
+    <actor id="id111082" />
+    <actor id="id802065" />
+    <actor id="id929756" />
+    <actor id="id357878" />
+    <actor id="id686149" />
+    <actor id="id248805" />
+    <actor id="id257402" />
+  </prototypes>
+  <plugins />
+  <scenes>
+    <scene id="id184227" />
+    <scene id="id163660" />
+    <scene id="id434405" />
+    <scene id="id821397" />
+  </scenes>
+  <attributes>
+    <text id="name">default name</text>
+    <real id="time">0</real>
+    <size id="displaySize">
+      <real id="width">480</real>
+      <real id="height">320</real>
+    </size>
+    <text id="actorTags" />
+    <text id="id466610" name="Moving?">No</text>
+    <real id="id150169" name="Score">0</real>
+    <text id="id291417" name="Pause?">No</text>
+  </attributes>
+</game>
